@@ -1,0 +1,5370 @@
+{
+    "2000": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Oleksandr Beresch",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ivan Ivankov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Oleksandr Svetlichny",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Blaine Wilson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Lihui Zheng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Lee Joo-Hyung",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Rare\u015f Orza\u0163a",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Yoshihiro Saito",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Dimitri Karbanenko",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Eric L\u00f3pez",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Naoya Tsukahara",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Maxim Aleshin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Benjamin Varonian",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Dimitrij Nonin",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Cho Seong-Min",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Aleksei Sinkevich",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Dimitar Lountchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 25.0,
+                    "Gymnast": "Kenichi Fujita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 26.0,
+                    "Gymnast": "Omar Cort\u00e9s",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 27.0,
+                    "Gymnast": "Roman Zozulya",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 28.0,
+                    "Gymnast": "Ioan Suciu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 29.0,
+                    "Gymnast": "Philippe Rizzo",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 30.0,
+                    "Gymnast": "Lazaro Lamelas",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 31.0,
+                    "Gymnast": "V\u00edctor Cano",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 32.0,
+                    "Gymnast": "Craig Heap",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 33.0,
+                    "Gymnast": "Ivan Pavlovsky",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 34.0,
+                    "Gymnast": "Alejandro Barrenechea",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 35.0,
+                    "Gymnast": "Alberto Busnari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 36.0,
+                    "Gymnast": "Igor Cassina",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 37.0,
+                    "Gymnast": "Ilia Giorgadze",
+                    "Nation": "Georgia"
+                },
+                {
+                    "Rank": 38.0,
+                    "Gymnast": "Jeong Jin-su",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 39.0,
+                    "Gymnast": "Andreas Wecker",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 40.0,
+                    "Gymnast": "Igors Vihrovs",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": 41.0,
+                    "Gymnast": "Stephen McCain",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 42.0,
+                    "Gymnast": "Florentin Pescaru",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 43.0,
+                    "Gymnast": "Yevgeny Podgorny",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 44.0,
+                    "Gymnast": "Dieter Rehm",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 45.0,
+                    "Gymnast": "Sa\u00fal Cofi\u00f1o",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 46.0,
+                    "Gymnast": "Flemming Solberg",
+                    "Nation": "Norway"
+                },
+                {
+                    "Rank": 47.0,
+                    "Gymnast": "Damian Istria",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 48.0,
+                    "Gymnast": "Kim Dong-hwa",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 48.0,
+                    "Gymnast": "Diego Lizardi",
+                    "Nation": "Puerto Rico"
+                },
+                {
+                    "Rank": 50.0,
+                    "Gymnast": "R\u00fanar Alexandersson",
+                    "Nation": "Iceland"
+                },
+                {
+                    "Rank": 51.0,
+                    "Gymnast": "Lin Yung-hsi",
+                    "Nation": "Chinese Taipei"
+                },
+                {
+                    "Rank": 52.0,
+                    "Gymnast": "David Phillips",
+                    "Nation": "New Zealand"
+                },
+                {
+                    "Rank": 53.0,
+                    "Gymnast": "Pae Gil-su",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 54.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 55.0,
+                    "Gymnast": "Xing Aowei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 56.0,
+                    "Gymnast": "Nikolay Kryukov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 57.0,
+                    "Gymnast": "Morgan Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 58.0,
+                    "Gymnast": "Mutsumi Harada",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 59.0,
+                    "Gymnast": "Valeriy Honcharov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 60.0,
+                    "Gymnast": "Jan-Peter Nikiferow",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 61.0,
+                    "Gymnast": "Sergej Pfeifer",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 62.0,
+                    "Gymnast": "Deyan Yordanov",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 63.0,
+                    "Gymnast": "Florent Maree",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 64.0,
+                    "Gymnast": "Vasil Vetsev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 65.0,
+                    "Gymnast": "Sean Townsend",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 66.0,
+                    "Gymnast": "Akihiro Kasamatsu",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 67.0,
+                    "Gymnast": "Valeriy Pereshkura",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 68.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 69.0,
+                    "Gymnast": "Aleksandr Shostak",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 70.0,
+                    "Gymnast": "Xiao Junfeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 71.0,
+                    "Gymnast": "Andreu Viv\u00f3",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 72.0,
+                    "Gymnast": "Zolt\u00e1n Supola",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 73.0,
+                    "Gymnast": "Vitaly Rudnitsky",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 74.0,
+                    "Gymnast": "Marius Tob\u0103",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 75.0,
+                    "Gymnast": "Aleksandr Kruzhilov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 76.0,
+                    "Gymnast": "Khristian Ivanov",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 77.0,
+                    "Gymnast": "Rene Tschernitschek",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 78.0,
+                    "Gymnast": "Leszek Blanik",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 79.0,
+                    "Gymnast": "Mladen Stefanov",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 80.0,
+                    "Gymnast": "Raouf Abdelraouf",
+                    "Nation": "Egypt"
+                },
+                {
+                    "Rank": 81.0,
+                    "Gymnast": "Sergey Fedorchenko",
+                    "Nation": "Kazakhstan"
+                },
+                {
+                    "Rank": 82.0,
+                    "Gymnast": "Marius Urzic\u0103",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 83.0,
+                    "Gymnast": "Lee Jang-hyeong",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 84.0,
+                    "Gymnast": "\u00c9ric Casimir",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 85.0,
+                    "Gymnast": "Yeo Hong-cheol",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 86.0,
+                    "Gymnast": "Norimasa Iwai",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 87.0,
+                    "Gymnast": "Ruslan Mezentsev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 88.0,
+                    "Gymnast": "John Roethlisberger",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 89.0,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 90.0,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 91.0,
+                    "Gymnast": "Dimosthenis Tambakos",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 92.0,
+                    "Gymnast": "Sasha Jeltkov",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 93.0,
+                    "Gymnast": "\u00c9ric Poujade",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 94.0,
+                    "Gymnast": "Szilveszter Csoll\u00e1ny",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 95.0,
+                    "Gymnast": "Ioannis Melissanidis",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 96.0,
+                    "Gymnast": "Dmitry Drevin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 97.0,
+                    "Gymnast": "Mitja Petkov\u0161ek",
+                    "Nation": "Slovenia"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Marius Urzic\u0103",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Eric Poujade",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Lee Jang-hyung",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Pae Gil-Su",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Zolt\u00e1n Supola",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Oleksandr Beresch",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Nikolai Kryukov",
+                    "Nation": "Russia"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Igors Vihrovs",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Morgan Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yevgeni Podgorny",
+                    "Nation": "Russia"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Szilveszter Csoll\u00e1ny",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Dimosthenis Tampakos",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Ivan Ivankov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Marius Toba",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Norimasa Iwai",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Roman Zozulya",
+                    "Nation": "Ukraine"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Leszek Blanik",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Sergey Fedorchenko",
+                    "Nation": "Kazakhstan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Blaine Wilson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Ioannis Melissanidis",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Dieter Rehm",
+                    "Nation": "Switzerland"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Lee Joo-Hyung",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Jung Jin-Soo",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Ivan Ivankov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Marius Urzic\u0103",
+                    "Nation": "Romania"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Benjamin Varonian",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Lee Joo-Hyung",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Oleksandr Beresch",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Ilia Giorgadze",
+                    "Nation": "Georgia"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Dieter Rehm",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Naoya Tsukahara",
+                    "Nation": "Japan"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Andreea R\u0103ducan",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Simona Am\u00e2nar",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Maria Olaru",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Liu Xuan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "4",
+                    "Gymnast": "Yekaterina Lobaznyuk",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "5",
+                    "Gymnast": "Yang Yun",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "6",
+                    "Gymnast": "Elena Zamolodchikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "7",
+                    "Gymnast": "Olga Roschupkina",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": "8",
+                    "Gymnast": "Lisa Skinner",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": "9",
+                    "Gymnast": "Esther Moya",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": "10",
+                    "Gymnast": "Svetlana Khorkina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "11",
+                    "Gymnast": "Viktoria Karpenko",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": "12",
+                    "Gymnast": "Laura Martinez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": "13",
+                    "Gymnast": "Elise Ray",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "14",
+                    "Gymnast": "Amy Chow",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "15",
+                    "Gymnast": "Kate Richardson",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": "16",
+                    "Gymnast": "Allana Slater",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": "17",
+                    "Gymnast": "Martina Bremini",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": "18",
+                    "Gymnast": "Monica Bergamelli",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": "19",
+                    "Gymnast": "Kristen Maloney",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "20",
+                    "Gymnast": "Daniele Hyp\u00f3lito",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": "21",
+                    "Gymnast": "Sara Moro",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": "22",
+                    "Gymnast": "Halina Tyryk",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": "23",
+                    "Gymnast": "Lisa Mason",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "24",
+                    "Gymnast": "Delphine Regease",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": "DSQ3",
+                    "Gymnast": "Dong Fangxiao",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "25",
+                    "Gymnast": "Adriana Crisci",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": "26",
+                    "Gymnast": "Marina Zarzhitskaya",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": "27",
+                    "Gymnast": "Kana Yamawaki",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": "28",
+                    "Gymnast": "Jana Komrskov\u00e1",
+                    "Nation": "Czech Republic"
+                },
+                {
+                    "Rank": "29",
+                    "Gymnast": "Nelly Ramassamy",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": "30",
+                    "Gymnast": "Alexandra Soler",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": "31",
+                    "Gymnast": "Emma Williams",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "32",
+                    "Gymnast": "Yvonne Tousek",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": "33",
+                    "Gymnast": "Alena Polozkova",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": "DNF",
+                    "Gymnast": "Annika Reeder",
+                    "Nation": "Great Britain"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Svetlana Khorkina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Ling Jie",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yang Yun",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Viktoria Karpenko",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Tatyana Zharganova",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Olga Roshupkina",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Yelena Produnova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Elvire Teza",
+                    "Nation": "France"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Liu Xuan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Yekaterina Lobaznyuk",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yelena Produnova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Claudia Presacan",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Tetyana Yarosh",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Maria Olaru",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Ling Jie",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Elise Ray",
+                    "Nation": "United States"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Elena Zamolodchikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Svetlana Khorkina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Simona Am\u00e2nar",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Esther Moya",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Yang Yun",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Andreea R\u0103ducan",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Lisa Skinner",
+                    "Nation": "Australia"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Elena Zamolodchikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Andreea R\u0103ducan",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yekaterina Lobaznyuk",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Esther Moya",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Laura Mart\u00ednez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Simona Am\u00e2nar",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Denisse L\u00f3pez",
+                    "Nation": "Mexico"
+                }
+            ]
+        }
+    },
+    "2004": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Kim Dae-Eun",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yang Tae Young",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ioan Silviu Suciu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Rafael Mart\u00ednez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Brett McClure",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Roman Zozulya",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Isao Yoneda",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Georgy Grebenkov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Yernar Yerimbetov",
+                    "Nation": "Kazakhstan"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Luis Vargas",
+                    "Nation": "Puerto Rico"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Ruslan Mezentsev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Beno\u00eet Caranobe",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Igors Vihrovs",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Pavel Gofman",
+                    "Nation": "Israel"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Eric Lopez Rios",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Sergei Pfeifer",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Ilia Giorgadze",
+                    "Nation": "Georgia"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Andreas Schweizer",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 25.0,
+                    "Gymnast": "Sven Kwiatkowski",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 26.0,
+                    "Gymnast": "Dan Potra",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 27.0,
+                    "Gymnast": "Maksim Devyatovsky",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 28.0,
+                    "Gymnast": "Abel Driggs",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 29.0,
+                    "Gymnast": "Adam Wong",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 30.0,
+                    "Gymnast": "Alejandro Barrenechea",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 31.0,
+                    "Gymnast": "Grant Golding",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 32.0,
+                    "Gymnast": "Jorge Hugo Giraldo",
+                    "Nation": "Colombia"
+                },
+                {
+                    "Rank": 33.0,
+                    "Gymnast": "Mosiah Rodrigues",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 34.0,
+                    "Gymnast": "Igor Cassina",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 35.0,
+                    "Gymnast": "R\u00fanar Alexandersson",
+                    "Nation": "Iceland"
+                },
+                {
+                    "Rank": 36.0,
+                    "Gymnast": "Vlasis Maras",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 37.0,
+                    "Gymnast": "Oriol Combarros",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 38.0,
+                    "Gymnast": "Ng Shu Wai",
+                    "Nation": "Malaysia"
+                },
+                {
+                    "Rank": 39.0,
+                    "Gymnast": "Dimitri Karbanenko",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 40.0,
+                    "Gymnast": "V\u00edctor Cano",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 41.0,
+                    "Gymnast": "Matteo Morandi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 42.0,
+                    "Gymnast": "Denis Savenkov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 43.0,
+                    "Gymnast": "Filipe Bezugo",
+                    "Nation": "Portugal"
+                },
+                {
+                    "Rank": 44.0,
+                    "Gymnast": "Enrico Pozzo",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 45.0,
+                    "Gymnast": "Sasha Jeltkov",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 46.0,
+                    "Gymnast": "Filip Yanev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 47.0,
+                    "Gymnast": "Wajdi Bouall\u00e8gue",
+                    "Nation": "Tunisia"
+                },
+                {
+                    "Rank": 48.0,
+                    "Gymnast": "Naoya Tsukahara",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 49.0,
+                    "Gymnast": "Takehiro Kashima",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 50.0,
+                    "Gymnast": "Guard Young",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 51.0,
+                    "Gymnast": "Xing Aowei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 52.0,
+                    "Gymnast": "R\u0103zvan \u015eelariu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 53.0,
+                    "Gymnast": "Blaine Wilson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 54.0,
+                    "Gymnast": "Robert Juckel",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 55.0,
+                    "Gymnast": "Xiao Qin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 56.0,
+                    "Gymnast": "Vadym Kuvakin",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 57.0,
+                    "Gymnast": "Florent Maree",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 58.0,
+                    "Gymnast": "David Kikuchi",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 59.0,
+                    "Gymnast": "Kim Seung-il",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 60.0,
+                    "Gymnast": "Johan Mounard",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 61.0,
+                    "Gymnast": "Anton Golotsutskov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 62.0,
+                    "Gymnast": "Alberto Busnari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 63.0,
+                    "Gymnast": "Andriy Mykhailychenko",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 64.0,
+                    "Gymnast": "Teng Haibin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 65.0,
+                    "Gymnast": "Ivan Ivankov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 66.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 67.0,
+                    "Gymnast": "Morgan Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 68.0,
+                    "Gymnast": "Hisashi Mizutori",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 69.0,
+                    "Gymnast": "Daisuke Nakano",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 70.0,
+                    "Gymnast": "Kim Dong-hwa",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 71.0,
+                    "Gymnast": "Lee Seon-seong",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 72.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 73.0,
+                    "Gymnast": "Jason Gatson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 74.0,
+                    "Gymnast": "Yevhen Bohonosiuk",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 75.0,
+                    "Gymnast": "Pierre-Yves B\u00e9ny",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 76.0,
+                    "Gymnast": "Jo Seong-min",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 77.0,
+                    "Gymnast": "Matthias Fahrig",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 78.0,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 79.0,
+                    "Gymnast": "Matteo Angioletti",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 80.0,
+                    "Gymnast": "Marius Urzic\u0103",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 81.0,
+                    "Gymnast": "Valeriy Honcharov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 82.0,
+                    "Gymnast": "Aleksey Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 83.0,
+                    "Gymnast": "Thomas Andergassen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 84.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 85.0,
+                    "Gymnast": "Jury Chechi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 86.0,
+                    "Gymnast": "Philippe Rizzo",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 87.0,
+                    "Gymnast": "Jes\u00fas Carballo",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 88.0,
+                    "Gymnast": "Christoph Sch\u00e4rer",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 89.0,
+                    "Gymnast": "Ken Ikeda",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 90.0,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 91.0,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 92.0,
+                    "Gymnast": "Jevg\u0113\u0146ijs Sapro\u0146enko",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": 93.0,
+                    "Gymnast": "Daniel Popescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 94.0,
+                    "Gymnast": "R\u00f3bert G\u00e1l",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 95.0,
+                    "Gymnast": "Aleksandr Safoshkin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 96.0,
+                    "Gymnast": "Ri Jong-song",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 97.0,
+                    "Gymnast": "Kim Hyon-il",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 98.0,
+                    "Gymnast": "Dimosthenis Tambakos",
+                    "Nation": "Greece"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Teng Haibin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Marius Daniel Urzic\u0103",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Takehiro Kashima",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "V\u00edctor Cano",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "R\u00fanar Alexandersson",
+                    "Nation": "Iceland"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Daisuke Nakano",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Isao Yoneda",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Morgan Hamm",
+                    "Nation": "United States"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Dimosthenis Tampakos",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yuri Chechi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Matteo Morandi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Pierre-Yves B\u00e9ny",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Alexander Safoshkin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Andreas Schweizer",
+                    "Nation": "Switzerland"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Evgeni Sapronenko",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Evgeni Sapronenko",
+                    "Nation": "Latvia"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Filip Yanev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Filip Yanev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "R\u00f3bert G\u00e1l",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "R\u00f3bert G\u00e1l",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Alexei Bondarenko",
+                    "Nation": "Russia"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Valeri Goncharov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ivan Ivankov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Daisuke Nakano",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yernar Yerimbetov",
+                    "Nation": "Kazakhstan"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Igor Cassina",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Paul Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Isao Yoneda",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Morgan Hamm",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Alexei Nemov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Xiao Qin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Fabian Hambuechen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Valeri Goncharov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Daisuke Nakano",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Yang Tae-Young",
+                    "Nation": "South Korea"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Carly Patterson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Svetlana Khorkina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Zhang Nan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Nicoleta Daniela \u0218ofronie",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Irina Yarotska",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Marine Debauve",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Elena G\u00f3mez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Courtney Kupets",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Allana Slater",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Alina Kozich",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Daniele Hyp\u00f3lito",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Wang Tiantian",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "\u00c9milie Lepennec",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Stefani Bismpikou",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Camila Comin",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Kwang Sun Pyon",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Kate Richardson",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Beth Tweddle",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Stephanie Moorhouse",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Katy Lennon",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Leyanet Gonzalez Calero",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Aagje Vanwalleghem",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Melanie Banville",
+                    "Nation": "Canada"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "\u00c9milie Lepennec",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Terin Humphrey",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Courtney Kupets",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Pyon Kwang-sun",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Li Ya",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Nicoleta Daniela \u0218ofronie",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Lin Li",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Svetlana Khorkina",
+                    "Nation": "Russia"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "C\u0103t\u0103lina Ponor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Carly Patterson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Alexandra Eremia",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Courtney Kupets",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Zhang Nan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Li Ya",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Allana Slater",
+                    "Nation": "Australia"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "C\u0103t\u0103lina Ponor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Nicoleta Daniela \u0218ofronie",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Patricia Moreno",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Cheng Fei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Daiane dos Santos",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Mohini Bhardwaj",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Kate Richardson",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Alina Kozich",
+                    "Nation": "Ukraine"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Monica Ro\u0219u",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Monica Ro\u0219u",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Annia Hatch",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Annia Hatch",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Elena Zamolodchikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Elena Zamolodchikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Kang Yun-mi",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Kang Yun-mi",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Alona Kvasha",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Alona Kvasha",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Wang Tiantian",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Wang Tiantian",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Coralie Chacon",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Coralie Chacon",
+                    "Nation": "France"
+                }
+            ]
+        }
+    },
+    "2008": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Kohei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Benoit Caranobe",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Sergey Khorokhordin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Maxim Devyatovskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yang Tae-young",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Jonathan Horton",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Rafael Mart\u00ednez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Kim Dae-eun",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Alexander Artemev",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Philipp Boy",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Luis Rivera Rivera",
+                    "Nation": "Puerto Rico"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Adam Wong",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Anton Fokin",
+                    "Nation": "Uzbekistan"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Nathan Gafuik",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Flavius Koczi",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Enrico Pozzo",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Daniel Keatings",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Thomas Bouhail",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Jos\u00e9 Luis Fuentes",
+                    "Nation": "Venezuela"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Dmitry Savitski",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Chen Yibing",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 25.0,
+                    "Gymnast": "Koki Sakamoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 26.0,
+                    "Gymnast": "Yuri Ryazanov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 27.0,
+                    "Gymnast": "Kim Su-myeon",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 28.0,
+                    "Gymnast": "Dimitri Karbanenko",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 29.0,
+                    "Gymnast": "Aleksandr Shatilov",
+                    "Nation": "Israel"
+                },
+                {
+                    "Rank": 30.0,
+                    "Gymnast": "Hamilton Sabot",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 31.0,
+                    "Gymnast": "Matteo Morandi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 32.0,
+                    "Gymnast": "Daniel Popescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 33.0,
+                    "Gymnast": "Denis Savenkov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 34.0,
+                    "Gymnast": "Kim Seung-il",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 35.0,
+                    "Gymnast": "Claudio Capelli",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 36.0,
+                    "Gymnast": "Adrian Bucur",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 37.0,
+                    "Gymnast": "Sascha Palgen",
+                    "Nation": "Luxembourg"
+                },
+                {
+                    "Rank": 38.0,
+                    "Gymnast": "R\u0103zvan \u015eelariu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 39.0,
+                    "Gymnast": "Sam Simpson",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 40.0,
+                    "Gymnast": "Sergio Mu\u00f1oz",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 41.0,
+                    "Gymnast": "Louis Smith",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 42.0,
+                    "Gymnast": "Jorge Hugo Giraldo",
+                    "Nation": "Colombia"
+                },
+                {
+                    "Rank": 43.0,
+                    "Gymnast": "Koen Van Damme",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 44.0,
+                    "Gymnast": "Mohamed Srour",
+                    "Nation": "Egypt"
+                },
+                {
+                    "Rank": 45.0,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 46.0,
+                    "Gymnast": "Xiao Qin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 47.0,
+                    "Gymnast": "Dmitry Kasperovich",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 48.0,
+                    "Gymnast": "Takuya Nakase",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 49.0,
+                    "Gymnast": "Marcel Nguyen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 50.0,
+                    "Gymnast": "Joey Hagerty",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 51.0,
+                    "Gymnast": "Justin Spring",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 52.0,
+                    "Gymnast": "Raj Bhavsar",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 53.0,
+                    "Gymnast": "Eugen Spiridonov",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 54.0,
+                    "Gymnast": "David Kikuchi",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 55.0,
+                    "Gymnast": "Iv\u00e1n San Miguel",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 56.0,
+                    "Gymnast": "Robert Juckel",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 57.0,
+                    "Gymnast": "Anton Golotsutskov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 58.0,
+                    "Gymnast": "Manuel Carballo",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 59.0,
+                    "Gymnast": "Andrea Coppolino",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 60.0,
+                    "Gymnast": "Nikolay Kryukov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 61.0,
+                    "Gymnast": "Takehiro Kashima",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 62.0,
+                    "Gymnast": "Kim Ji-hun",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 63.0,
+                    "Gymnast": "Kyle Shewfelt",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 64.0,
+                    "Gymnast": "Matteo Angioletti",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 65.0,
+                    "Gymnast": "Grant Golding",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 66.0,
+                    "Gymnast": "Isaac Botella",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 67.0,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 68.0,
+                    "Gymnast": "Aleksandr Tsarevich",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 69.0,
+                    "Gymnast": "Alberto Busnari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 70.0,
+                    "Gymnast": "Igor Kozlov",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 71.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 72.0,
+                    "Gymnast": "Zou Kai",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 73.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 74.0,
+                    "Gymnast": "Brandon O'Neill",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 75.0,
+                    "Gymnast": "Thomas Andergassen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 76.0,
+                    "Gymnast": "Kevin Tan",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 77.0,
+                    "Gymnast": "Igor Cassina",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 78.0,
+                    "Gymnast": "George St\u0103nescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 79.0,
+                    "Gymnast": "Konstantin Pluzhnikov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 80.0,
+                    "Gymnast": "Danny Rodrigues",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 81.0,
+                    "Gymnast": "Nashwan Al-Harazi",
+                    "Nation": "Yemen"
+                },
+                {
+                    "Rank": 82.0,
+                    "Gymnast": "R\u00f3bert G\u00e1l",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 83.0,
+                    "Gymnast": "Diego Hyp\u00f3lito",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 84.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 85.0,
+                    "Gymnast": "Yoo Won-chul",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 86.0,
+                    "Gymnast": "Makoto Okiguchi",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 87.0,
+                    "Gymnast": "Filip Ude",
+                    "Nation": "Croatia"
+                },
+                {
+                    "Rank": 88.0,
+                    "Gymnast": "Vlasis Maras",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 89.0,
+                    "Gymnast": "Valeriy Honcharov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 90.0,
+                    "Gymnast": "Ilia Giorgadze",
+                    "Nation": "Georgia"
+                },
+                {
+                    "Rank": 91.0,
+                    "Gymnast": "Christoph Sch\u00e4rer",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 92.0,
+                    "Gymnast": "Aleksey Ignatovich",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 93.0,
+                    "Gymnast": "Martin Kone\u010dn\u00fd",
+                    "Nation": "Czech Republic"
+                },
+                {
+                    "Rank": 94.0,
+                    "Gymnast": "Leszek Blanik",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 95.0,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 96.0,
+                    "Gymnast": "Oleksandr Vorobiov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 97.0,
+                    "Gymnast": "Mitja Petkov\u0161ek",
+                    "Nation": "Slovenia"
+                },
+                {
+                    "Rank": 98.0,
+                    "Gymnast": "Epke Zonderland",
+                    "Nation": "Netherlands"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Xiao Qin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Filip Ude",
+                    "Nation": "Croatia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Louis Smith",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Kim Ji-Hoon",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Alexander Artemev",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Jos\u00e9 Luis Fuentes",
+                    "Nation": "Venezuela"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Diego Hyp\u00f3lito",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Gervasio Deferr",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": "4th",
+                    "Gymnast": "Fabian Hambuechen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": "5th",
+                    "Gymnast": "K\u014dhei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": "6th",
+                    "Gymnast": "Zou Kai",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "7th",
+                    "Gymnast": "Anton Golotsutskov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "8th",
+                    "Gymnast": "Alexander Shatilov",
+                    "Nation": "Israel"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Chen Yibing",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Yang Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Oleksandr Vorobiov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Andrea Coppolino",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Danny Pinheiro Rodrigues",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Matteo Morandi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Robert Stanescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Leszek Blanik",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Thomas Bouhail",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Anton Golotsutskov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Beno\u00eet Caranobe",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Dmitry Kasperovich",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Flavius Koczi",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Isaac Botella",
+                    "Nation": "Spain"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Li Xiaopeng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Yoo Won-Chul",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Anton Fokin",
+                    "Nation": "Uzbekistan"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Mitja Petkov\u0161ek",
+                    "Nation": "Slovenia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Huang Xu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Yang Tae-Young",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Nikolay Kryukov",
+                    "Nation": "Russia"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Zou Kai",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Jonathan Horton",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Igor Cassina",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Takuya Nakase",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Hiroyuki Tomita",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Epke Zonderland",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yann Cucherat",
+                    "Nation": "France"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Nastia Liukin",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Shawn Johnson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yang Yilin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ksenia Semenova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Steliana Nistor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Jiang Yuyuan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Sandra Izba\u015fa",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Oksana Chusovitina",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Jade Barbosa",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Becky Downie",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Georgia Bonora",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Lia Parolari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Shona Morgan",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Elyse Hopfner-Hibbs",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Koko Tsurumi",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Ariella Kaslin",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Marine Petit",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Kyoko Oshima",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Krist\u00fdna P\u00e1le\u0161ov\u00e1",
+                    "Nation": "Czech Republic"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Ana Silva",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Laetitia Dugain",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Gaelle Mys",
+                    "Nation": "Belgium"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Yang Yilin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Ksenia Semenova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Anastasia Koval",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Steliana Nistor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Nastia Liukin",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "He Kexin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Dariya Zgoba",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Beth Tweddle",
+                    "Nation": "Great Britain"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Li Shanshan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Nastia Liukin",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Shawn Johnson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Cheng Fei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Ksenia Afanasyeva",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Gabriela Dr\u0103goi",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Koko Tsurumi",
+                    "Nation": "Japan"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Cheng Fei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Sandra Izba\u015fa",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Shawn Johnson",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Nastia Liukin",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Daiane dos Santos",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Ekaterina Kramarenko",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Jiang Yuyuan",
+                    "Nation": "China"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Cheng Fei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Hong Un-jong",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Alicia Sacramone",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Oksana Chusovitina",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Anna Pavlova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Carlotta Giovannini",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Jade Barbosa",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Ariella K\u00e4slin",
+                    "Nation": "Switzerland"
+                }
+            ]
+        }
+    },
+    "2012": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "K\u014dhei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Marcel Nguyen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Danell Leyva",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Nikolai Kuksenkov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Kazuhito Tanaka",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Kristian Thomas",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "John Orozco",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Fabi\u00e1n Gonz\u00e1lez",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "S\u00e9rgio Sasaki",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Oleg Vernyayev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Alexander Shatilov",
+                    "Nation": "Israel"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Daniel Purvis",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Emin Garibov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Cyril Tommasone",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Claudio Capelli",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Enrico Pozzo",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Joshua Jefferis",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Kim Soo-myun",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Jimmy Verbaeys",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Paolo Ottavi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Javier G\u00f3mez Fuertes",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Roman Kulesza",
+                    "Nation": "Poland"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Kriszti\u00e1n Berki",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Louis Smith",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Max Whitlock",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Alberto Busnari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Cyril Tommasone",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Vitaliy Nakonechnyi",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Vid Hidv\u00e9gi",
+                    "Nation": "Hungary"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Zou Kai",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "K\u014dhei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Tom\u00e1s Gonz\u00e1lez",
+                    "Nation": "Chile"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Jake Dalton",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Alexander Shatilov",
+                    "Nation": "Israel"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Flavius Koczi",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Marcel Nguyen",
+                    "Nation": "Germany"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Arthur Zanetti",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Chen Yibing",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Matteo Morandi",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Aleksandr Balandin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Tommy Ramos",
+                    "Nation": "Puerto Rico"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Yordan Yovchev",
+                    "Nation": "Bulgaria"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Federico Molinari",
+                    "Nation": "Argentina"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Yang Hak-seon",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Igor Radivilov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Tom\u00e1s Gonz\u00e1lez",
+                    "Nation": "Chile"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Isaac Botella",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Flavius Koczi",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Kristian Thomas",
+                    "Nation": "Great Britain"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Feng Zhe",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Marcel Nguyen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Hamilton Sabot",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Kazuhito Tanaka",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Daniel Corral",
+                    "Nation": "Mexico"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Emin Garibov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Vasileios Tsolakidis",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Yusuke Tanaka",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Zhang Chenglong",
+                    "Nation": "China"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Epke Zonderland",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Zou Kai",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Zhang Chenglong",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Danell Leyva",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Jonathan Horton",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Emin Garibov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Kim Ji-hoon",
+                    "Nation": "South Korea"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Viktoria Komova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Aly Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Sandra Izba\u0219a",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Deng Linlin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Huang Qiushuang",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Larisa Iordache",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Asuka Teramoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "C\u00e9line van Gerner",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Rebecca Tunney",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Giulia Steingruber",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Emily Little",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Rie Tanaka",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Dominique Pegg",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Jessica L\u00f3pez",
+                    "Nation": "Venezuela"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Marta Pihan-Kulesza",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Ashleigh Brennan",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Carlotta Ferlito",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Ana Sof\u00eda G\u00f3mez",
+                    "Nation": "Guatemala"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Aur\u00e9lie Malaussena",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Hannah Whelan",
+                    "Nation": "Great Britain"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "He Kexin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Beth Tweddle",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Yao Jinnan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Viktoria Komova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "K\u014dko Tsurumi",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Sui Lu",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Viktoria Komova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Deng Linlin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Aly Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Kyla Ross",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Ksenia Afanasyeva",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "C\u0103t\u0103lina Ponor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 9,
+                    "Gymnast": "Anastasia Grishina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 10,
+                    "Gymnast": "Diana Bulimar",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 11,
+                    "Gymnast": "Larisa Iordache",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Jordyn Wieber",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 14,
+                    "Gymnast": "Sandra Izba\u0219a",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 15,
+                    "Gymnast": "Asuka Teramoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 16,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 17,
+                    "Gymnast": "Carlotta Ferlito",
+                    "Nation": "Italy"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Aly Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Sandra Izba\u0219a",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Ksenia Afanasyeva",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Lauren Mitchell",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Jordyn Wieber",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "C\u0103t\u0103lina Ponor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 9,
+                    "Gymnast": "Beth Tweddle",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 10,
+                    "Gymnast": "Diana Chelaru",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 11,
+                    "Gymnast": "Marta Pihan-Kulesza",
+                    "Nation": "Poland"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Asuka Teramoto",
+                    "Nation": "Japan"
+                }
+            ]
+        }
+    },
+    "2016": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "K\u014dhei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Oleg Vernyayev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Max Whitlock",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "4",
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "5",
+                    "Gymnast": "Lin Chaopan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "6",
+                    "Gymnast": "Deng Shudi",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "7",
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "8",
+                    "Gymnast": "Nile Wilson",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "9",
+                    "Gymnast": "S\u00e9rgio Sasaki",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": "10",
+                    "Gymnast": "Jossimar Calvo",
+                    "Nation": "Colombia"
+                },
+                {
+                    "Rank": "11",
+                    "Gymnast": "Ry\u014dhei Kat\u014d",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": "12",
+                    "Gymnast": "Eddy Yusof",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": "13",
+                    "Gymnast": "Nikolai Kuksenkov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "14",
+                    "Gymnast": "Chris Brooks",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "15",
+                    "Gymnast": "Bart Deurloo",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": "16",
+                    "Gymnast": "Pablo Br\u00e4gger",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": "17",
+                    "Gymnast": "Arthur Mariano",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": "18",
+                    "Gymnast": "Andrey Likhovitskiy",
+                    "Nation": "Belarus"
+                },
+                {
+                    "Rank": "19",
+                    "Gymnast": "Marcel Nguyen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": "20",
+                    "Gymnast": "Andreas Bretschneider",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": "21",
+                    "Gymnast": "Axel Augis",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": "22",
+                    "Gymnast": "Oleg Stepko",
+                    "Nation": "Azerbaijan"
+                },
+                {
+                    "Rank": "\u2014",
+                    "Gymnast": "Marios Georgiou",
+                    "Nation": "Cyprus"
+                },
+                {
+                    "Rank": "\u2014",
+                    "Gymnast": "Manrique Larduet",
+                    "Nation": "Cuba"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Max Whitlock",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Louis Smith",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Alexander Naddour",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Cyril Tommasone",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Nikolai Kuksenkov",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Harutyun Merdinyan",
+                    "Nation": "Armenia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Oleg Verniaiev",
+                    "Nation": "Ukraine"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Jacob Dalton",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "K\u014dhei Uchimura",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Diego Hyp\u00f3lito",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Max Whitlock",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Kenz\u014d Shirai",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Kristian Thomas",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Y\u016bsuke Tanaka",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 9,
+                    "Gymnast": "Arthur Mariano",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 10,
+                    "Gymnast": "Manrique Larduet",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 11,
+                    "Gymnast": "Rayderley Zapata",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Benjamin Gischard",
+                    "Nation": "Switzerland"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Eleftherios Petrounias",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Arthur Zanetti",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Liu Yang",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Igor Radivilov",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "You Hao",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Danny Pinheiro Rodrigues",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Dennis Goossens",
+                    "Nation": "Belgium"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Ri Se-gwang",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Kenz\u014d Shirai",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Marian Dr\u0103gulescu",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Nikita Nagornyy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Oleg Verniaiev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Tom\u00e1s Gonz\u00e1lez",
+                    "Nation": "Chile"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Ihor Radivilov",
+                    "Nation": "Ukraine"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Oleg Verniaiev",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Danell Leyva",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Deng Shudi",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Manrique Larduet",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Andrei Muntean",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Ry\u014dhei Kat\u014d",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "You Hao",
+                    "Nation": "China"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Fabian Hamb\u00fcchen",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Danell Leyva",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Nile Wilson",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Francisco Barreto J\u00fanior",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Manrique Larduet",
+                    "Nation": "Cuba"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Epke Zonderland",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Oleg Verniaiev",
+                    "Nation": "Ukraine"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Simone Biles",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Aly Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Shang Chunsong",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Elsabeth Black",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Wang Yan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Jessica L\u00f3pez",
+                    "Nation": "Venezuela"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Asuka Teramoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Eythora Thorsdottir",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Giulia Steingruber",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "Rebeca Andrade",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Carlotta Ferlito",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Ellie Downie",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Mai Murakami",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Marine Brevet",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Isabela Onyshko",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Nina Derwael",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Lieke Wevers",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Louise Vanhille",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Seda Tutkhalyan",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Sophie Scheder",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Jade Barbosa",
+                    "Nation": "Brazil"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Aliya Mustafina",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Madison Kocian",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Sophie Scheder",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Shang Chunsong",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Jessica L\u00f3pez",
+                    "Nation": "Venezuela"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Daria Spiridonova",
+                    "Nation": "Russia"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Simone Biles",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Laurie Hernandez",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Flavia Saraiva",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Sanne Wevers",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Catalina Ponor",
+                    "Nation": "Romania"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Fan Yilin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Alexandra Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 9,
+                    "Gymnast": "Marine Boyer",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 10,
+                    "Gymnast": "Isabela Onyshko",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 11,
+                    "Gymnast": "Elissa Downie",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Amy Tinkler",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 13,
+                    "Gymnast": "Tutya Yilmaz",
+                    "Nation": "Turkey"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Simone Biles",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Aly Raisman",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 4,
+                    "Gymnast": "Laurie Hernandez",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5,
+                    "Gymnast": "Giulia Steingruber",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 6,
+                    "Gymnast": "Wang Yan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 7,
+                    "Gymnast": "Amy Tinkler",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 8,
+                    "Gymnast": "Mai Murakami",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 9,
+                    "Gymnast": "Gabby Douglas",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 10,
+                    "Gymnast": "Sae Miyakawa",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 11,
+                    "Gymnast": "Claudia Fragapane",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 12,
+                    "Gymnast": "Pauline Sch\u00e4fer",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 13,
+                    "Gymnast": "Elisa Meneghini",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 14,
+                    "Gymnast": "C\u0103t\u0103lina Ponor",
+                    "Nation": "Romania"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Simone Biles",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Maria Paseka",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Giulia Steingruber",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Dipa Karmakar",
+                    "Nation": "India"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Wang Yan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Hong Un-jong",
+                    "Nation": "South Korea"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Oksana Chusovitina",
+                    "Nation": "Uzbekistan"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Shallon Olsen",
+                    "Nation": "Canada"
+                }
+            ]
+        }
+    },
+    "2020": {
+        "Men": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Daiki Hashimoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Xiao Ruoteng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Nikita Nagornyy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "4",
+                    "Gymnast": "Sun Wei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": "5",
+                    "Gymnast": "Takeru Kitazono",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": "6",
+                    "Gymnast": "Artur Dalaloyan",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": "7",
+                    "Gymnast": "Tang Chia-hung",
+                    "Nation": "Chinese Taipei"
+                },
+                {
+                    "Rank": "8",
+                    "Gymnast": "James Hall",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "9",
+                    "Gymnast": "Joe Fraser",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": "10",
+                    "Gymnast": "Brody Malone",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "11",
+                    "Gymnast": "Illia Kovtun",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": "12",
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": "13",
+                    "Gymnast": "Benjamin Gischard",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": "14",
+                    "Gymnast": "Milad Karimi",
+                    "Nation": "Kazakhstan"
+                },
+                {
+                    "Rank": "15",
+                    "Gymnast": "Adem Asil",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": "16",
+                    "Gymnast": "Eddy Yusof",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": "17",
+                    "Gymnast": "Caio Souza",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": "18",
+                    "Gymnast": "Lukas Dauser",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": "19",
+                    "Gymnast": "Petro Pakhniuk",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": "20",
+                    "Gymnast": "Diogo Soares",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": "21",
+                    "Gymnast": "Lee Chih-kai",
+                    "Nation": "Chinese Taipei"
+                },
+                {
+                    "Rank": "22",
+                    "Gymnast": "Lee Jun-ho",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": "23",
+                    "Gymnast": "Philipp Herder",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": "WD",
+                    "Gymnast": "Ahmet \u00d6nder",
+                    "Nation": "Turkey"
+                }
+            ],
+            "pommel_horse": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Max Whitlock",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Lee Chih-kai",
+                    "Nation": "Chinese Taipei"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Kazuma Kaya",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Kohei Kameyama",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Alec Yoder",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Rhys McClenaghan",
+                    "Nation": "Ireland"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Sun Wei",
+                    "Nation": "China"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Artem Dolgopyat",
+                    "Nation": "Israel"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Rayderley Zapata",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Xiao Ruoteng",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ryu Sung-hyun",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Milad Karimi",
+                    "Nation": "Kazakhstan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Yul Moldauer",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Nikita Nagornyy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Kim Han-sol",
+                    "Nation": "North Korea"
+                }
+            ],
+            "rings": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Liu Yang",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "You Hao",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Eleftherios Petrounias",
+                    "Nation": "Greece"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Samir A\u00eft Sa\u00efd",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "\u0130brahim \u00c7olak",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Adem Asil",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Arthur Zanetti",
+                    "Nation": "Brazil"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Shin Jea-hwan",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Denis Ablyazin",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Artur Davtyan",
+                    "Nation": "Armenia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Carlos Yulo",
+                    "Nation": "Philippines"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Nikita Nagornyy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Adem Asil",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Ahmet \u00d6nder",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Caio Souza",
+                    "Nation": "Brazil"
+                }
+            ],
+            "parallel_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Zou Jingyuan",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Lukas Dauser",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Ferhat Ar\u0131can",
+                    "Nation": "Turkey"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "You Hao",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "David Belyavskiy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Sam Mikulak",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Petro Pakhniuk",
+                    "Nation": "Ukraine"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Joe Fraser",
+                    "Nation": "Great Britain"
+                }
+            ],
+            "horizontal_bar": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Daiki Hashimoto",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Tin Srbi\u0107",
+                    "Nation": "Croatia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Nikita Nagornyy",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Brody Malone",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Tyson Bull",
+                    "Nation": "Australia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Takeru Kitazono",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Bart Deurloo",
+                    "Nation": "Netherlands"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Milad Karimi",
+                    "Nation": "Kazakhstan"
+                }
+            ]
+        },
+        "Women": {
+            "artistic_individual_all-around": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Sunisa Lee",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Rebeca Andrade",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Angelina Melnikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Vladislava Urazova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Mai Murakami",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Nina Derwael",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Tang Xijing",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Jade Carey",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 9.0,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 10.0,
+                    "Gymnast": "Jessica Gadirova",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 11.0,
+                    "Gymnast": "M\u00e9lanie de Jesus dos Santos",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 12.0,
+                    "Gymnast": "Carolann H\u00e9duit",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 13.0,
+                    "Gymnast": "Jennifer Gadirova",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 14.0,
+                    "Gymnast": "Zs\u00f3fia Kov\u00e1cs",
+                    "Nation": "Hungary"
+                },
+                {
+                    "Rank": 15.0,
+                    "Gymnast": "Giulia Steingruber",
+                    "Nation": "Switzerland"
+                },
+                {
+                    "Rank": 16.0,
+                    "Gymnast": "Brooklyn Moors",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 17.0,
+                    "Gymnast": "Kim Bui",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 18.0,
+                    "Gymnast": "Lu Yufei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 19.0,
+                    "Gymnast": "Martina Maggio",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 20.0,
+                    "Gymnast": "Alice D'Amato",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 21.0,
+                    "Gymnast": "Lee Yun-seo",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 22.0,
+                    "Gymnast": "Roxana Popa",
+                    "Nation": "Spain"
+                },
+                {
+                    "Rank": 23.0,
+                    "Gymnast": "Jutta Verkest",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 24.0,
+                    "Gymnast": "Lieke Wevers",
+                    "Nation": "Netherlands"
+                }
+            ],
+            "uneven_bars": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Nina Derwael",
+                    "Nation": "Belgium"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Anastasia Ilyankova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Sunisa Lee",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Lu Yufei",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Elisabeth Seitz",
+                    "Nation": "Germany"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "M\u00e9lanie de Jesus dos Santos",
+                    "Nation": "France"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Fan Yilin",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Angelina Melnikova",
+                    "Nation": "Russia"
+                }
+            ],
+            "balance_beam": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Guan Chenchen",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Tang Xijing",
+                    "Nation": "China"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Simone Biles",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Ellie Black",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Sunisa Lee",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Urara Ashikawa",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Fl\u00e1via Saraiva",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Vladislava Urazova",
+                    "Nation": "Russia"
+                }
+            ],
+            "floor": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Jade Carey",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "Vanessa Ferrari",
+                    "Nation": "Italy"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Mai Murakami",
+                    "Nation": "Japan"
+                },
+                {
+                    "Rank": NaN,
+                    "Gymnast": "Angelina Melnikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Rebeca Andrade",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Jessica Gadirova",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Jennifer Gadirova",
+                    "Nation": "Great Britain"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Viktoria Listunova",
+                    "Nation": "Russia"
+                }
+            ],
+            "vault": [
+                {
+                    "Rank": 1,
+                    "Gymnast": "Rebeca Andrade",
+                    "Nation": "Brazil"
+                },
+                {
+                    "Rank": 2,
+                    "Gymnast": "MyKayla Skinner",
+                    "Nation": "United States"
+                },
+                {
+                    "Rank": 3,
+                    "Gymnast": "Yeo Seo-jeong",
+                    "Nation": "North Korea"
+                },
+                {
+                    "Rank": 4.0,
+                    "Gymnast": "Alexa Moreno",
+                    "Nation": "Mexico"
+                },
+                {
+                    "Rank": 5.0,
+                    "Gymnast": "Angelina Melnikova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 6.0,
+                    "Gymnast": "Lilia Akhaimova",
+                    "Nation": "Russia"
+                },
+                {
+                    "Rank": 7.0,
+                    "Gymnast": "Shallon Olsen",
+                    "Nation": "Canada"
+                },
+                {
+                    "Rank": 8.0,
+                    "Gymnast": "Jade Carey",
+                    "Nation": "United States"
+                }
+            ]
+        }
+    }
+}
