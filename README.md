@@ -34,7 +34,7 @@ Please see final_list.json file to access the data.
 ## Data Structure
 
 The project use tree structure to store the data.
-Please see tree.json file to access tree strucute data.
+Please see tree.json file to access tree structure data.
 
 {
     "2000": {
