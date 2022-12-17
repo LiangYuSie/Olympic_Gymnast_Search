@@ -7,7 +7,6 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from PIL import Image,ImageTk
 import matplotlib.pyplot as plt
 import matplotlib.font_manager
 from IPython.core.display import HTML
@@ -354,9 +353,7 @@ def update_options(*args):
     menu.delete(0, 'end')
     for g in gender:
         menu.add_command(label=g, command=lambda nation = g: event_variable.set(nation))
-
-        
-        
+     
 def show():
     '''
     Create a dictionary of data based on users' selection and switch to the page that displays stacked bar chart.
@@ -406,7 +403,6 @@ def show():
         if pagenum == 1:
             page2(window)
             pagenum = 2
-
 
 def year():
     '''
@@ -480,10 +476,8 @@ def event():
         page3(window)
         pagenum = 3
 
-
 def make_html(fontname):
     return "<p>{font}: <span style='font-family:{font}; font-size: 24px;'>{font}</p>".format(font=fontname)
-
 
 def chart(results, category_names):
     global fig, ax
@@ -577,6 +571,7 @@ def page2(window):
     window : 
         A GUI widgets
     '''
+    global pagenum
     window.geometry("%dx%d+%d+%d" % (900, 400, 200, 150))
     category_names = ['Event', 'Gymnastic','Olympic']
     if percentage_show:
@@ -587,6 +582,8 @@ def page2(window):
     
     bar1 = FigureCanvasTkAgg(fig, window)
     bar1.get_tk_widget().pack()
+    btnShow1 = Button(window, text="Back", command = back)
+    btnShow1.pack()
     
 def page3(window):
     '''
@@ -597,6 +594,7 @@ def page3(window):
     window : 
         A GUI widgets
     '''
+    global pagenum
     window.geometry("%dx%d+%d+%d" % (900, 400, 200, 150))
 
     treeview = ttk.Treeview(window)
@@ -608,7 +606,17 @@ def page3(window):
 
     for index, row in df.iterrows():
         treeview.insert("",0,text=index,values=list(row))
+    btnShow1 = Button(window, text="Back", command = back)
+    btnShow1.pack()
 
+def back():
+    global pagenum, wundow
+    for widget in window.winfo_children():
+        widget.destroy()
+    if pagenum != 1:
+        page1(window)
+        pagenum = 1
+    
 url = []
 year_list = [year for year in range(2000, 2024, 4)]
 men_event = ["artistic_individual_all-around","pommel_horse", "floor", "rings", "vault", "parallel_bars", "horizontal_bar"]
