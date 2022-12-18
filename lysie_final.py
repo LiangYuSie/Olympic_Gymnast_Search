@@ -610,6 +610,9 @@ def page3(window):
     btnShow1.pack()
 
 def back():
+    '''
+    Go back to the search page
+    '''
     global pagenum, wundow
     for widget in window.winfo_children():
         widget.destroy()
